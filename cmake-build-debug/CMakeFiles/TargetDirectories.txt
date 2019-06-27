@@ -1,0 +1,3 @@
+C:/Users/Le Thanh Tung/CLionProjects/Assignment-C/cmake-build-debug/CMakeFiles/Assignment_C.dir
+C:/Users/Le Thanh Tung/CLionProjects/Assignment-C/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Le Thanh Tung/CLionProjects/Assignment-C/cmake-build-debug/CMakeFiles/rebuild_cache.dir
